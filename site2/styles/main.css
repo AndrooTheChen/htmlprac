@@ -1,0 +1,12 @@
+body{
+    background-image: url("background.jpg");
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    color:red;
+}
+
+p {
+    color:white;
+}
