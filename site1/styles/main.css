@@ -1,0 +1,32 @@
+body{
+    background:#999;
+    font-family: arial;
+}
+
+h1 {
+    color:#333333;
+}
+
+h2 {
+    color: black;
+}
+
+a {
+    color:green;
+}
+
+p {
+    background: #666;
+    color: white;
+    padding: 5px 2px 5px 5px;
+ }
+
+ .secondary {
+     color:blue;
+     background:palevioletred;
+ }
+
+ #yume {
+     background: springgreen;
+     color: rgb(231, 57, 115);
+ }
